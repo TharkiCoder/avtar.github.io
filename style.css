@@ -4,11 +4,9 @@
 }
 body{
   font-family: sans-serif;
-  background: linear-gradient(
-    to right,
-    #7575ff 51%,
-    #ffffff 50%
-    )fixed;
+  background-color: #f9f9fd;
+  background-image: radial-gradient(#9448cc 2px, #f9f9fd 2px);
+  background-size: 40px 40px;
 }
 
 .container{
