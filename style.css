@@ -22,7 +22,7 @@ body{
 p{
   text-align: center;
   color: #fff;
-  font-size: 25px;
+  font-size: 26px;
   font-weight: 400;
   margin:10px;
 }
@@ -66,5 +66,5 @@ input[type=button]{
 }
 span{
   margin-left:80px;
-  color:#ddd;
+  color:#ddf;
 }
