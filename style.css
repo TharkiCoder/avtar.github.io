@@ -58,9 +58,9 @@ p{
 input[type=button]{
   border:none;
   outline: none;
-  width:260px;
+  width:261px;
   height:40px;
-  margin:0px 10px;
+  margin:0px 11px;
   font-size:15px;
   color:#666;
 }
