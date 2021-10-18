@@ -49,11 +49,11 @@ p{
   width:250px;
   height: 180px;
   margin: 10px 10px;
-  padding: 0px 5px;
-  background-color: #fff;
+  padding: 0px 7px;
+  background-color: #ffe;
 }
 #img{
-  width:250px;
+  width:251px;
   height: 180px;
 }
 input[type=button]{
