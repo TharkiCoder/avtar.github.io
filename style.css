@@ -6,7 +6,7 @@ body{
   font-family: sans-serif;
   background-color: #f9f9fd;
   background-image: radial-gradient(#9448cc 2px, #f9f9fd 2px);
-  background-size: 40px 40px;
+  background-size: 50px 50px;
 }
 
 .container{
@@ -22,17 +22,17 @@ body{
 p{
   text-align: center;
   color: #fff;
-  font-size: 26px;
-  font-weight: 400;
-  margin:10px;
+  font-size: 30px;
+  font-weight: 450;
+  margin:15px;
 }
 
 #inputarea{
-  width:251px;
-  height: 30px;
+  width:255px;
+  height: 35px;
   display: flex;
   align-items: center;
-  margin: 0px 10px;
+  margin: 4px 14px;
   outline: none;
   padding: 0px 5px;
   color:#333;
